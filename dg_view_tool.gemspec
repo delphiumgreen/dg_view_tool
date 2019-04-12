@@ -6,12 +6,12 @@ require "dg_view_tool/version"
 Gem::Specification.new do |spec|
   spec.name          = "dg_view_tool"
   spec.version       = DgViewTool::VERSION
-  spec.authors       = ["Rio Iwamori"]
-  spec.email         = ["codbo32016@yahoo.co.jp"]
+  spec.authors       = ["Delphium Green"]
+  spec.email         = ["workfileiz@gmail.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Various view specific methods for applications I use.}
+  spec.description   = %q{Provides generated HTML data for Rails applications.}
+  spec.homepage      = "https://liferebootblog.com"
   spec.license       = "MIT"
 
 
